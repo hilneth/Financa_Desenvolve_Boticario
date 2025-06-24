@@ -70,4 +70,57 @@ Cores que reforçam seriedade e transparência:
 
 🔹 **Dúvidas**
 - Imagem temática
-- Artigo: _“Como saber
+- Artigo: _“Como saber se sou um gastador compulsivo?”_
+- Botão: *Ajuda*
+
+🔹 **Ajuda**
+- Artigo com boas práticas
+- Ferramenta interativa:
+  - Registro de entrada e saída
+  - Cálculo automático de saldo
+  - Histórico de transações
+
+🔹 **Sobre**
+- Informações sobre o projeto
+- LinkedIn e GitHub dos desenvolvedores
+
+---
+
+## 🧩 Funcionalidades
+
+- 📱 **Layout responsivo** com menu hambúrguer
+- 🔗 **Navegação entre páginas** de forma fluida
+- 💰 **Calculadora de finanças pessoais** com histórico e saldo atualizado
+
+---
+
+## 🌱 Organização em Branches
+
+Cada time fará um *fork* do repositório principal e desenvolverá em uma branch nomeada com o nome da página:
+
+- `home` – Página inicial
+- `duvidas` – Página sobre compulsão financeira
+- `ajuda` – Página de ferramentas e dicas
+- `sobre` – Página institucional
+
+🔗 Repositório base: [github.com/fabiocosta123/Financa_Desenvolve_Boticario](https://github.com/fabiocosta123/Financa_Desenvolve_Boticario)  
+🗂️ Organização das tarefas no Trello:  
+[trello.com/invite/projetofinancas](https://trello.com/invite/b/685ad66436f992157a4b6fa6/ATTIef6544636f256ea419971030cf469664C982C8E8/projetofinancasdesenvolve)
+
+---
+
+## 💻 Tecnologias Utilizadas
+
+- HTML5 + CSS3
+- JavaScript
+- Git & GitHub
+- Outras ferramentas/frameworks a definir
+
+---
+
+## 👥 Sobre o Projeto
+
+O Finança Consciente é o resultado de um trabalho **colaborativo e educativo**. Desenvolvedores apaixonados por transformação social uniram esforços para oferecer um espaço acessível e didático, a fim de ajudar pessoas a reorganizarem suas vidas financeiras de maneira prática e consciente.
+
+---
+
