@@ -105,7 +105,7 @@ Cada time fará um *fork* do repositório principal e desenvolverá em uma branc
 
 🔗 Repositório base: [github.com/fabiocosta123/Financa_Desenvolve_Boticario](https://github.com/fabiocosta123/Financa_Desenvolve_Boticario)  
 🗂️ Organização das tarefas no Trello:  
-[trello.com/invite/projetofinancas](https://trello.com/invite/b/685ad66436f992157a4b6fa6/ATTIef6544636f256ea419971030cf469664C982C8E8/projetofinancasdesenvolve)
+[trello.com/invite/projetofinancas](https://trello.com/invite/b/685b571055e95d2910585d4a/ATTIaacd3244b6b5b41e55265c5c7b47d0d4D3C4319D/projeto-financas)
 
 ---
 
