@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+#brand {
+  height: 2rem;
+}
+
+.grid-container {
+  background-color: lightgray; /* temp */
+  display: grid;
+  grid-template-columns: auto fit-content(30%) fit-content(30%) fit-content(30%);
+  grid-template-rows: 1fr;
+  grid-template-areas: brand link link link;
+}
+
+.grid-item {
+  margin: 2rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: red; /* temp */
+}
+
+.brand {
+  text-align: left;
+}
+
+@media (min-width: "720px") {
+  
+}
