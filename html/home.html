@@ -13,23 +13,28 @@
   </head>
   <body>
     <header class="grid-container">
-      <a class="grid-item brand" href="#"
-        ><img id="brand" src="../favicon.png" alt="Logo do site"
-      /></a>
+      <a class="grid-item brand" href="#">
+        <img id="brand-img" src="../placeholder-brand.png" alt="Logo do site" />
+      </a>
+      <span class="grid-item blank"></span>
       <a class="grid-item link" href="#">Sobre</a>
       <a class="grid-item link" href="#">Duvidas</a>
       <a class="grid-item link" href="#">Ajuda</a>
     </header>
     <main>
-      <article>
-        <h2>Exemplo de titulo</h2>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit
-        </p>
-      </article>
+      <div class="carousel-container">
+        <button class="scroll-btn left">◄</button>
+        <ul>
+          <li class="carousel-item"><h2>Page 1</h2></li>
+          <li class="carousel-item"><h2>Page 2</h2></li>
+          <li class="carousel-item"><h2>Page 3</h2></li>
+          <li class="carousel-item"><h2>Page 4</h2></li>
+        </ul>
+        <button class="scroll-btn right">►</button>
+      </div>
     </main>
     <footer>
-      <p>sem conteudo</p>
+      <p>sem conteúdo</p>
     </footer>
   </body>
 </html>
